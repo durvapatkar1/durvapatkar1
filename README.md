@@ -27,7 +27,7 @@ Let's connect and build something amazing together!
 - **Data Analytics & Visualization:**  Excel , Power BI 
 - **Frameworks:** Pandas , NumPy , Matplotlib
 - **Machine Learning/Deep Learning:** KNN Algorithm , Basic Neural Networks , LLM Concepts
-- **Developer Tools:**  Visual Studio Code , Google Colab , Jupiter Notebook
+- **Developer Tools:**  Visual Studio Code , Google Colab , Jupyter Notebook
 
 ---
 
